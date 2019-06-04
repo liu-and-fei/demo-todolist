@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "吃饭"
+    },
+    {
+      "id": 2,
+      "name": "睡觉"
+    },
+    {
+      "id": 3,
+      "name": "大学"
+    },
+    {
+      "name": "前端大佬",
+      "id": 4
+    },
+    {
+      "name": "吃薯条",
+      "id": 5
+    },
+    {
+      "name": "呆若木鸡",
+      "id": 8
+    },
+    {
+      "name": "守株待兔",
+      "id": 9
+    },
+    {
+      "name": "亡羊补牢",
+      "id": 10
+    },
+    {
+      "name": "西安biangbiang面",
+      "id": 11
+    },
+    {
+      "name": "天津狗不理包子",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
